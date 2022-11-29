@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+body{
+    background-color: purple;
+}
+.card-body{
+    text-align: center;
+    background-color: pink;
+    padding:10px;
+    align-content: center;
+    margin: 20px;
+    height: 90%;
+
+}
+.card-title{
+    font-size: 50px;
+    color:red
+}
+.card-text{
+    align-content: center;
+    margin-top: 50px;
+    font-size:30px;
+}
+.col-md-4{
+align-content: center;
+margin-top: 70px;
+size:80px;
+}
